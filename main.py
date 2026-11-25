@@ -4,7 +4,7 @@
 import os
 from pathlib import Path
 
-ENTRY = "fix: patched the leak; the house now has an indoor water feature"
+ENTRY = "fix: taught the workaround to reproduce itself"
 
 
 def main():
